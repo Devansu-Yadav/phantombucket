@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Kladi",
+        "description": "A easy to use react state management library",
+        "url": "https://github.com/Ninja-Developers/kladi",
+        "language": [
+            "javascript"
+        ]
+    },
+    {
+        "title": "Quizzer",
+        "description": "A fun quiz app for all",
+        "url": "https://github.com/Ninja-Developers/quizzer",
+        "language": [
+            "javascript",
+            "nodejs",
+            "react"
+        ]
+    }
+]
