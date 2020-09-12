@@ -12,3 +12,5 @@ assignees: ''
 ## Description
 
 ## Github repo link
+
+## Tech Stack
