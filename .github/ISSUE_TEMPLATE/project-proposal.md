@@ -13,4 +13,4 @@ assignees: ''
 
 ## Github repo link
 
-## Tech Stack
+## Languages
