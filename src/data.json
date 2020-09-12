@@ -15,5 +15,24 @@
             "javascript",
             "react"
         ]
+    },
+    {
+        "title": "Port Scanner",
+        "description": "A go-to tool for scanning network. Scan all the open ports for a given host with just one click and what not!",
+        "url": "https://github.com/vinitshahdeo/PortScanner",
+        "language": [
+            "html",
+            "css",
+            "javascript",
+            "python"
+        ]
+    },
+    {
+        "title": "Water Monitoring System",
+        "description": "Water Monitoring System is an IoT based Liquid Level Monitoring system that has mechanisms to keep the user alerted in case of liquid overflow or when tank depletes.",
+        "url": "https://github.com/vinitshahdeo/Water-Monitoring-System",
+        "language": [
+            "javascript"
+        ]
     }
 ]

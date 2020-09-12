@@ -40,3 +40,33 @@ A fun quiz app for all
 ---
 
 
+
+
+## Port Scanner
+
+A go-to tool for scanning network. Scan all the open ports for a given host with just one click and what not!
+
+[Check here](https://github.com/vinitshahdeo/PortScanner)
+
+**Languages**
+
+![html](https://img.shields.io/badge/html-red) ![css](https://img.shields.io/badge/css-blueviolet) ![javascript](https://img.shields.io/badge/javascript-yellow) ![python](https://img.shields.io/badge/python-blue) 
+
+---
+
+
+
+
+## Water Monitoring System
+
+Water Monitoring System is an IoT based Liquid Level Monitoring system that has mechanisms to keep the user alerted in case of liquid overflow or when tank depletes.
+
+[Check here](https://github.com/vinitshahdeo/Water-Monitoring-System)
+
+**Languages**
+
+![javascript](https://img.shields.io/badge/javascript-yellow) 
+
+---
+
+
