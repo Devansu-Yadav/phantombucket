@@ -1,7 +1,9 @@
 const fs = require('fs')
 const path = require('path')
 
-const READEME_PATH = path.resolve(__dirname, 'README.md')
+const { generateBadge, getColor } = require('./badges')
+
+const READEME_PATH = path.resolve(__dirname, "../", 'README.md')
 
 const DATA_PATH = path.resolve(__dirname, 'data.json')
 
@@ -24,8 +26,8 @@ const generateProjectList = (plist) => {
     let projectlist = ``
 
     plist.forEach(el => {
-        let {title, description, url, language} = el
-        let proj = genProj({title, description, url, language})
+        let { title, description, url, language } = el
+        let proj = genProj({ title, description, url, language })
 
         projectlist = projectlist + '\n' + proj + '\n'
     })
@@ -33,11 +35,14 @@ const generateProjectList = (plist) => {
     return projectlist
 }
 
-const genProj = ({title, description, url, language}) => {
+const genProj = ({ title, description, url, language }) => {
     let languageString = ''
+
     language.forEach(el => {
-        languageString = languageString + el + ', '
+        let color = getColor(el)
+        languageString = languageString + `${generateBadge(el, color)} `
     })
+
     let data = `
 ## ${title}
 
@@ -45,7 +50,8 @@ ${description}
 
 [Check here](${url})
 
-> Languages
+**Languages**
+
 ${languageString}
 
 ---

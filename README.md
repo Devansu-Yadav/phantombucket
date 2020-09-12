@@ -18,8 +18,9 @@ A easy to use react state management library
 
 [Check here](https://github.com/Ninja-Developers/kladi)
 
-> Languages
-javascript, 
+**Languages**
+
+![javascript](https://img.shields.io/badge/javascript-yellow) 
 
 ---
 
@@ -32,8 +33,9 @@ A fun quiz app for all
 
 [Check here](https://github.com/Ninja-Developers/quizzer)
 
-> Languages
-javascript, nodejs, react, 
+**Languages**
+
+![javascript](https://img.shields.io/badge/javascript-yellow) ![react](https://img.shields.io/badge/react-blue) 
 
 ---
 
