@@ -34,5 +34,16 @@
         "language": [
             "javascript"
         ]
-    }
+    },
+    {
+        "title": "9x9 TicTacToe",
+        "description": "A fun and easy to play TicTacToe game but with a little twist that it is a 9x9 Grid instead of a 3x3 Grid.",
+        "url": "https://github.com/Devansu-Yadav/9x9-TicTacToe",
+        "language": [
+            "python",
+            "html",
+            "css",
+            "javascript"
+        ]
+    }	
 ]
