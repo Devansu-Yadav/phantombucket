@@ -70,3 +70,18 @@ Water Monitoring System is an IoT based Liquid Level Monitoring system that has 
 ---
 
 
+
+
+## 9x9 TicTacToe
+
+A fun and easy to play TicTacToe game but with a little twist that it is a 9x9 Grid instead of a 3x3 Grid.
+
+[Check here](https://github.com/Devansu-Yadav/9x9-TicTacToe)
+
+**Languages**
+
+![python](https://img.shields.io/badge/python-blue) ![html](https://img.shields.io/badge/html-red) ![css](https://img.shields.io/badge/css-blueviolet) ![javascript](https://img.shields.io/badge/javascript-yellow) 
+
+---
+
+
