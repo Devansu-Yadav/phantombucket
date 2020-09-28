@@ -85,3 +85,33 @@ A fun and easy to play TicTacToe game but with a little twist that it is a 9x9 G
 ---
 
 
+
+
+## Jobtweets
+
+The project is about searching the twitter for job opportunities using popular #hashtags and applying sentiment analysis on this.
+
+[Check here](https://github.com/vinitshahdeo/jobtweets)
+
+**Languages**
+
+![python](https://img.shields.io/badge/python-blue) 
+
+---
+
+
+
+
+## Recruitment Portal
+
+An online recruitment portal with secured admin dashboard to automate the whole recruitment process.
+
+[Check here](https://github.com/vinitshahdeo/Recruitment-Portal)
+
+**Languages**
+
+![php](https://img.shields.io/badge/php-lightgrey) 
+
+---
+
+
