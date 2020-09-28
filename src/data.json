@@ -45,5 +45,22 @@
             "css",
             "javascript"
         ]
-    }	
+    },
+    {
+        "title": "Jobtweets",
+        "description": "The project is about searching the twitter for job opportunities using popular #hashtags and applying sentiment analysis on this.",
+        "url": "https://github.com/vinitshahdeo/jobtweets",
+        "language": [
+            "python"
+        ]
+    },
+    {
+        "title": "Recruitment Portal",
+        "description": "An online recruitment portal with secured admin dashboard to automate the whole recruitment process.",
+        "url": "https://github.com/vinitshahdeo/Recruitment-Portal",
+        "language": [
+            "php"
+        ]
+
+    }
 ]
