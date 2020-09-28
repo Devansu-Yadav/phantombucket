@@ -6,7 +6,8 @@ const langColor = {
     css: "blueviolet",
     kotlin: "important",
     dart: "blue",
-    react: 'blue'
+    react: 'blue',
+    php: 'lightgrey'
 }
 
 const getColor = language => {
